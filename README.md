@@ -6,6 +6,8 @@ A web application that processes and displays real-time weather data using a bac
 
 - SQLite (database storage)
 
+- WeatherAPI (fetching weather data)
+
 - Requests (HTTP requests to API)
 
 - HTML/CSS (frontend)
